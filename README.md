@@ -1,3 +1,3 @@
 The exercise is running on the following binder link:
 
-https://hub.gesis.mybinder.org/user/nicolasdettling-autumnschool-s5ayykrg/doc/tree/exercise.ipynb
+https://mybinder.org/v2/gh/nicolasdettling/autumnschool.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercise.ipynb
